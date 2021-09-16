@@ -1,6 +1,6 @@
 ---
 title: "自我介紹"
-author: "My name"
+author: "詹于萱"
 date: "`r Sys.Date()`"
 output: html_document
 ---
@@ -20,12 +20,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - 我從那裡來？ 
 
-NULL
+新北
 
 - 我決定來這裡的動機？
 
-NULL
+更深入想了解的領域
 
 - 我對這門課的期望？
 
-NULL
+能一步一步熟悉R的應用
