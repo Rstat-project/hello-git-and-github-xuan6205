@@ -28,4 +28,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - 我對這門課的期望？
 
-能一步一步熟悉R的應用
+能一步一步熟悉R的應用。
